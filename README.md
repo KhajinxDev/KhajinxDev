@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhajinxDev
 - 👀 I’m interested in coding in Java, Python, C#, .NET, SQL, PHP.
 - 🌱 I’m currently learning GIT.
-- 💞️ I’m looking to collaborate on anything really. Whatever I needs my help.
+- 💞️ I’m looking to collaborate on anything really. Anything anyone needs help with.
 - 📫 How to reach me ...
 
 <!---
